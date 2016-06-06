@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\Exercise\bin\Debug\Exercise.exe.config
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\Exercise\bin\Debug\Exercise.exe
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\Exercise\bin\Debug\Exercise.pdb
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\Exercise\obj\Debug\Exercise.exe
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\Exercise\obj\Debug\Exercise.pdb

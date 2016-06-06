@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\4.Rectangles\bin\Debug\4.Rectangles.exe.config
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\4.Rectangles\bin\Debug\4.Rectangles.exe
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\4.Rectangles\bin\Debug\4.Rectangles.pdb
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\4.Rectangles\obj\Debug\4.Rectangles.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\4.Rectangles\obj\Debug\4.Rectangles.exe
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\4.Rectangles\obj\Debug\4.Rectangles.pdb

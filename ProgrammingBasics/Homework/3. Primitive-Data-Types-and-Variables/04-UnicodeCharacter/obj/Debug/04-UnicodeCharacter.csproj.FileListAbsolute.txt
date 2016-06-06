@@ -1,0 +1,5 @@
+D:\SoftwareUniversity\Programming Basics\Homework\3. Primitive-Data-Types-and-Variables\04-UnicodeCharacter\bin\Debug\04-UnicodeCharacter.exe.config
+D:\SoftwareUniversity\Programming Basics\Homework\3. Primitive-Data-Types-and-Variables\04-UnicodeCharacter\bin\Debug\04-UnicodeCharacter.exe
+D:\SoftwareUniversity\Programming Basics\Homework\3. Primitive-Data-Types-and-Variables\04-UnicodeCharacter\bin\Debug\04-UnicodeCharacter.pdb
+D:\SoftwareUniversity\Programming Basics\Homework\3. Primitive-Data-Types-and-Variables\04-UnicodeCharacter\obj\Debug\04-UnicodeCharacter.exe
+D:\SoftwareUniversity\Programming Basics\Homework\3. Primitive-Data-Types-and-Variables\04-UnicodeCharacter\obj\Debug\04-UnicodeCharacter.pdb

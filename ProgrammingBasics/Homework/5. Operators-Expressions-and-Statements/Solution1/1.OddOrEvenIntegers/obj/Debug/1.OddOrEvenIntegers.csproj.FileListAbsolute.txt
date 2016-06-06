@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\1.OddOrEvenIntegers\bin\Debug\1.OddOrEvenIntegers.exe.config
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\1.OddOrEvenIntegers\bin\Debug\1.OddOrEvenIntegers.exe
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\1.OddOrEvenIntegers\bin\Debug\1.OddOrEvenIntegers.pdb
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\1.OddOrEvenIntegers\obj\Debug\1.OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\1.OddOrEvenIntegers\obj\Debug\1.OddOrEvenIntegers.exe
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\1.OddOrEvenIntegers\obj\Debug\1.OddOrEvenIntegers.pdb

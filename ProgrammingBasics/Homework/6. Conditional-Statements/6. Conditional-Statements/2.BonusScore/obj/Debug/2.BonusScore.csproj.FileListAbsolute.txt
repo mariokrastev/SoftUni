@@ -1,0 +1,6 @@
+c:\users\mario's pc\documents\visual studio 2015\Projects\6. Conditional-Statements\2.BonusScore\bin\Debug\2.BonusScore.exe.config
+c:\users\mario's pc\documents\visual studio 2015\Projects\6. Conditional-Statements\2.BonusScore\bin\Debug\2.BonusScore.exe
+c:\users\mario's pc\documents\visual studio 2015\Projects\6. Conditional-Statements\2.BonusScore\bin\Debug\2.BonusScore.pdb
+c:\users\mario's pc\documents\visual studio 2015\Projects\6. Conditional-Statements\2.BonusScore\obj\Debug\2.BonusScore.csprojResolveAssemblyReference.cache
+c:\users\mario's pc\documents\visual studio 2015\Projects\6. Conditional-Statements\2.BonusScore\obj\Debug\2.BonusScore.exe
+c:\users\mario's pc\documents\visual studio 2015\Projects\6. Conditional-Statements\2.BonusScore\obj\Debug\2.BonusScore.pdb

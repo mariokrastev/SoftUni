@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe.config
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.pdb
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.exe
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.pdb

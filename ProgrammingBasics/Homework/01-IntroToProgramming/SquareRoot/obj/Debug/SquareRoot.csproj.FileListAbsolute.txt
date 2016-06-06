@@ -1,0 +1,5 @@
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\SquareRoot\bin\Debug\SquareRoot.exe.config
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\SquareRoot\bin\Debug\SquareRoot.exe
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\SquareRoot\bin\Debug\SquareRoot.pdb
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\SquareRoot\obj\Debug\SquareRoot.exe
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\SquareRoot\obj\Debug\SquareRoot.pdb

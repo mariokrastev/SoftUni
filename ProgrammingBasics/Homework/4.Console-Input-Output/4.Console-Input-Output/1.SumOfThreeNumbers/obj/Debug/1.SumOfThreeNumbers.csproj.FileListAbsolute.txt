@@ -1,0 +1,9 @@
+D:\SoftwareUniversity\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\1.SumOfThreeNumbers\bin\Debug\1.SumOfThreeNumbers.exe.config
+D:\SoftwareUniversity\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\1.SumOfThreeNumbers\bin\Debug\1.SumOfThreeNumbers.exe
+D:\SoftwareUniversity\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\1.SumOfThreeNumbers\bin\Debug\1.SumOfThreeNumbers.pdb
+D:\SoftwareUniversity\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\1.SumOfThreeNumbers\obj\Debug\1.SumOfThreeNumbers.csprojResolveAssemblyReference.cache
+D:\SoftwareUniversity\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\1.SumOfThreeNumbers\obj\Debug\1.SumOfThreeNumbers.exe
+D:\SoftwareUniversity\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\1.SumOfThreeNumbers\obj\Debug\1.SumOfThreeNumbers.pdb
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\1.SumOfThreeNumbers\bin\Debug\1.SumOfThreeNumbers.exe.config
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\1.SumOfThreeNumbers\obj\Debug\1.SumOfThreeNumbers.exe
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\1.SumOfThreeNumbers\obj\Debug\1.SumOfThreeNumbers.pdb

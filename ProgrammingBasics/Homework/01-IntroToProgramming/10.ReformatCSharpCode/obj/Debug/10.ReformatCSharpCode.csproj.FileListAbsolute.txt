@@ -1,0 +1,6 @@
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe.config
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.pdb
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.exe
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.pdb
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.csprojResolveAssemblyReference.cache

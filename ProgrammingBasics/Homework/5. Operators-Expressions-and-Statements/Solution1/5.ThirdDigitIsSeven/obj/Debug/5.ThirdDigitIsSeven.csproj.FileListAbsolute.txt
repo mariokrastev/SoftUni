@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\5.ThirdDigitIsSeven\bin\Debug\5.ThirdDigitIsSeven.exe.config
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\5.ThirdDigitIsSeven\bin\Debug\5.ThirdDigitIsSeven.exe
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\5.ThirdDigitIsSeven\bin\Debug\5.ThirdDigitIsSeven.pdb
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\5.ThirdDigitIsSeven\obj\Debug\5.ThirdDigitIsSeven.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\5.ThirdDigitIsSeven\obj\Debug\5.ThirdDigitIsSeven.exe
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\5.ThirdDigitIsSeven\obj\Debug\5.ThirdDigitIsSeven.pdb

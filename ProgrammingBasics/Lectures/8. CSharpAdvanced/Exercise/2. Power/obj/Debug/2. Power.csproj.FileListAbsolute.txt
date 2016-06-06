@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basics\Lectures\8. CSharpAdvanced\Exercise\2. Power\bin\Debug\_2.Power.exe.config
+D:\SoftUni\Programming Basics\Lectures\8. CSharpAdvanced\Exercise\2. Power\bin\Debug\_2.Power.exe
+D:\SoftUni\Programming Basics\Lectures\8. CSharpAdvanced\Exercise\2. Power\bin\Debug\_2.Power.pdb
+D:\SoftUni\Programming Basics\Lectures\8. CSharpAdvanced\Exercise\2. Power\obj\Debug\2. Power.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics\Lectures\8. CSharpAdvanced\Exercise\2. Power\obj\Debug\_2.Power.exe
+D:\SoftUni\Programming Basics\Lectures\8. CSharpAdvanced\Exercise\2. Power\obj\Debug\_2.Power.pdb

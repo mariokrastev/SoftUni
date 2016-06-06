@@ -1,0 +1,6 @@
+C:\Users\Mario's PC\Documents\Visual Studio 2015\Projects\6. Conditional-Statements\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe.config
+C:\Users\Mario's PC\Documents\Visual Studio 2015\Projects\6. Conditional-Statements\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe
+C:\Users\Mario's PC\Documents\Visual Studio 2015\Projects\6. Conditional-Statements\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.pdb
+C:\Users\Mario's PC\Documents\Visual Studio 2015\Projects\6. Conditional-Statements\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.csprojResolveAssemblyReference.cache
+C:\Users\Mario's PC\Documents\Visual Studio 2015\Projects\6. Conditional-Statements\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.exe
+C:\Users\Mario's PC\Documents\Visual Studio 2015\Projects\6. Conditional-Statements\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.pdb

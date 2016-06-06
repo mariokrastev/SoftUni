@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basics\Lectures\8. CSharpAdvanced\Exercise\1.PrintingNumbers\bin\Debug\1.PrintingNumbers.exe.config
+D:\SoftUni\Programming Basics\Lectures\8. CSharpAdvanced\Exercise\1.PrintingNumbers\bin\Debug\1.PrintingNumbers.exe
+D:\SoftUni\Programming Basics\Lectures\8. CSharpAdvanced\Exercise\1.PrintingNumbers\bin\Debug\1.PrintingNumbers.pdb
+D:\SoftUni\Programming Basics\Lectures\8. CSharpAdvanced\Exercise\1.PrintingNumbers\obj\Debug\1.PrintingNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics\Lectures\8. CSharpAdvanced\Exercise\1.PrintingNumbers\obj\Debug\1.PrintingNumbers.exe
+D:\SoftUni\Programming Basics\Lectures\8. CSharpAdvanced\Exercise\1.PrintingNumbers\obj\Debug\1.PrintingNumbers.pdb

@@ -1,0 +1,9 @@
+c:\users\security\documents\visual studio 2015\Projects\Homework\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.exe.config
+c:\users\security\documents\visual studio 2015\Projects\Homework\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.exe
+c:\users\security\documents\visual studio 2015\Projects\Homework\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.pdb
+c:\users\security\documents\visual studio 2015\Projects\Homework\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.csprojResolveAssemblyReference.cache
+c:\users\security\documents\visual studio 2015\Projects\Homework\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.exe
+c:\users\security\documents\visual studio 2015\Projects\Homework\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.pdb
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.exe.config
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.exe
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\2.GravitationOnTheMoon\bin\Debug\2.GravitationOnTheMoon.exe.config
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\2.GravitationOnTheMoon\bin\Debug\2.GravitationOnTheMoon.exe
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\2.GravitationOnTheMoon\bin\Debug\2.GravitationOnTheMoon.pdb
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\2.GravitationOnTheMoon\obj\Debug\2.GravitationOnTheMoon.exe
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\2.GravitationOnTheMoon\obj\Debug\2.GravitationOnTheMoon.pdb

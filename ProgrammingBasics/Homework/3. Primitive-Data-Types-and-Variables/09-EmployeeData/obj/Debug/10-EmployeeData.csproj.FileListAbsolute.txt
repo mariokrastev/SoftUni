@@ -1,0 +1,6 @@
+D:\SoftwareUniversity\Programming Basics\Homework\3. Primitive-Data-Types-and-Variables\09-EmployeeData\bin\Debug\09-EmployeeData.exe.config
+D:\SoftwareUniversity\Programming Basics\Homework\3. Primitive-Data-Types-and-Variables\09-EmployeeData\bin\Debug\09-EmployeeData.exe
+D:\SoftwareUniversity\Programming Basics\Homework\3. Primitive-Data-Types-and-Variables\09-EmployeeData\bin\Debug\09-EmployeeData.pdb
+D:\SoftwareUniversity\Programming Basics\Homework\3. Primitive-Data-Types-and-Variables\09-EmployeeData\obj\Debug\10-EmployeeData.csprojResolveAssemblyReference.cache
+D:\SoftwareUniversity\Programming Basics\Homework\3. Primitive-Data-Types-and-Variables\09-EmployeeData\obj\Debug\09-EmployeeData.exe
+D:\SoftwareUniversity\Programming Basics\Homework\3. Primitive-Data-Types-and-Variables\09-EmployeeData\obj\Debug\09-EmployeeData.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\1.NumbersFromOneToN\bin\Debug\1.NumbersFromOneToN.exe.config
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\1.NumbersFromOneToN\bin\Debug\1.NumbersFromOneToN.exe
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\1.NumbersFromOneToN\bin\Debug\1.NumbersFromOneToN.pdb
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\1.NumbersFromOneToN\obj\Debug\1.NumbersFromOneToN.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\1.NumbersFromOneToN\obj\Debug\1.NumbersFromOneToN.exe
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\1.NumbersFromOneToN\obj\Debug\1.NumbersFromOneToN.pdb

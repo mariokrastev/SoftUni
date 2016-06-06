@@ -1,0 +1,5 @@
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\8.NumberFromOneToN\bin\Debug\8.NumberFromOneToN.exe.config
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\8.NumberFromOneToN\bin\Debug\8.NumberFromOneToN.exe
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\8.NumberFromOneToN\bin\Debug\8.NumberFromOneToN.pdb
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\8.NumberFromOneToN\obj\Debug\8.NumberFromOneToN.exe
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\8.NumberFromOneToN\obj\Debug\8.NumberFromOneToN.pdb

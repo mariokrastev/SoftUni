@@ -1,0 +1,6 @@
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\8.PrimeNumberCheck\bin\Debug\8.PrimeNumberCheck.exe.config
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\8.PrimeNumberCheck\bin\Debug\8.PrimeNumberCheck.exe
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\8.PrimeNumberCheck\bin\Debug\8.PrimeNumberCheck.pdb
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\8.PrimeNumberCheck\obj\Debug\8.PrimeNumberCheck.csprojResolveAssemblyReference.cache
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\8.PrimeNumberCheck\obj\Debug\8.PrimeNumberCheck.exe
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\8.PrimeNumberCheck\obj\Debug\8.PrimeNumberCheck.pdb

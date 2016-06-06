@@ -1,0 +1,6 @@
+c:\users\mario's pc\documents\visual studio 2015\Projects\6. Conditional-Statements\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.exe.config
+c:\users\mario's pc\documents\visual studio 2015\Projects\6. Conditional-Statements\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.exe
+c:\users\mario's pc\documents\visual studio 2015\Projects\6. Conditional-Statements\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.pdb
+c:\users\mario's pc\documents\visual studio 2015\Projects\6. Conditional-Statements\3.CheckForAPlayCard\obj\Debug\3.CheckForAPlayCard.csprojResolveAssemblyReference.cache
+c:\users\mario's pc\documents\visual studio 2015\Projects\6. Conditional-Statements\3.CheckForAPlayCard\obj\Debug\3.CheckForAPlayCard.exe
+c:\users\mario's pc\documents\visual studio 2015\Projects\6. Conditional-Statements\3.CheckForAPlayCard\obj\Debug\3.CheckForAPlayCard.pdb

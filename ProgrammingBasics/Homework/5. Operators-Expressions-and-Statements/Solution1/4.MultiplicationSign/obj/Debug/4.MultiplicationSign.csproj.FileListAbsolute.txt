@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe.config
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.pdb
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.exe
+D:\SoftUni\Programming Basics\Homework\5. Operators-Expressions-and-Statements\Solution1\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.pdb

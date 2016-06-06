@@ -1,0 +1,6 @@
+C:\Users\Mario's PC\Documents\Visual Studio 2015\Projects\6. Conditional-Statements\7.SortThreeNumbersWithNestedIfs\bin\Debug\7.SortThreeNumbersWithNestedIfs.exe.config
+C:\Users\Mario's PC\Documents\Visual Studio 2015\Projects\6. Conditional-Statements\7.SortThreeNumbersWithNestedIfs\bin\Debug\7.SortThreeNumbersWithNestedIfs.exe
+C:\Users\Mario's PC\Documents\Visual Studio 2015\Projects\6. Conditional-Statements\7.SortThreeNumbersWithNestedIfs\bin\Debug\7.SortThreeNumbersWithNestedIfs.pdb
+C:\Users\Mario's PC\Documents\Visual Studio 2015\Projects\6. Conditional-Statements\7.SortThreeNumbersWithNestedIfs\obj\Debug\7.SortThreeNumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+C:\Users\Mario's PC\Documents\Visual Studio 2015\Projects\6. Conditional-Statements\7.SortThreeNumbersWithNestedIfs\obj\Debug\7.SortThreeNumbersWithNestedIfs.exe
+C:\Users\Mario's PC\Documents\Visual Studio 2015\Projects\6. Conditional-Statements\7.SortThreeNumbersWithNestedIfs\obj\Debug\7.SortThreeNumbersWithNestedIfs.pdb

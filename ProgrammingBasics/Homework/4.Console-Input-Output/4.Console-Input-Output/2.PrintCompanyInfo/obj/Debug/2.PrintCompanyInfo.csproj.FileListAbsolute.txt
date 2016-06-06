@@ -1,0 +1,8 @@
+D:\SoftwareUniversity\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\2.PrintCompanyInfo\bin\Debug\2.PrintCompanyInfo.exe.config
+D:\SoftwareUniversity\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\2.PrintCompanyInfo\bin\Debug\2.PrintCompanyInfo.exe
+D:\SoftwareUniversity\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\2.PrintCompanyInfo\bin\Debug\2.PrintCompanyInfo.pdb
+D:\SoftwareUniversity\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\2.PrintCompanyInfo\obj\Debug\2.PrintCompanyInfo.exe
+D:\SoftwareUniversity\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\2.PrintCompanyInfo\obj\Debug\2.PrintCompanyInfo.pdb
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\2.PrintCompanyInfo\bin\Debug\2.PrintCompanyInfo.exe.config
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\2.PrintCompanyInfo\obj\Debug\2.PrintCompanyInfo.exe
+D:\SoftUni\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\2.PrintCompanyInfo\obj\Debug\2.PrintCompanyInfo.pdb

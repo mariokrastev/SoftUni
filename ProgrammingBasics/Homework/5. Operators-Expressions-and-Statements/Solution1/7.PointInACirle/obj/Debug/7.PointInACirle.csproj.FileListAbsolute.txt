@@ -1,0 +1,5 @@
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\7.PointInACirle\bin\Debug\7.PointInACirle.exe.config
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\7.PointInACirle\bin\Debug\7.PointInACirle.exe
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\7.PointInACirle\bin\Debug\7.PointInACirle.pdb
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\7.PointInACirle\obj\Debug\7.PointInACirle.exe
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\7.PointInACirle\obj\Debug\7.PointInACirle.pdb

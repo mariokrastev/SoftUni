@@ -1,0 +1,6 @@
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\9.Trapezoids\bin\Debug\9.Trapezoids.exe.config
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\9.Trapezoids\bin\Debug\9.Trapezoids.exe
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\9.Trapezoids\bin\Debug\9.Trapezoids.pdb
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\9.Trapezoids\obj\Debug\9.Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\9.Trapezoids\obj\Debug\9.Trapezoids.exe
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\9.Trapezoids\obj\Debug\9.Trapezoids.pdb

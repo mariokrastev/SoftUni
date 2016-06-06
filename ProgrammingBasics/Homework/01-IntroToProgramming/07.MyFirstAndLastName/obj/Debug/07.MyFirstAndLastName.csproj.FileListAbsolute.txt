@@ -1,0 +1,6 @@
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\07.MyFirstAndLastName\bin\Debug\07.MyFirstAndLastName.exe.config
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\07.MyFirstAndLastName\bin\Debug\07.MyFirstAndLastName.exe
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\07.MyFirstAndLastName\bin\Debug\07.MyFirstAndLastName.pdb
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\07.MyFirstAndLastName\obj\Debug\07.MyFirstAndLastName.exe
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\07.MyFirstAndLastName\obj\Debug\07.MyFirstAndLastName.pdb
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\07.MyFirstAndLastName\obj\Debug\07.MyFirstAndLastName.csprojResolveAssemblyReference.cache

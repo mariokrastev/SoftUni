@@ -1,0 +1,5 @@
+D:\SoftwareUniversity\Programming Basics\Homework\3. Primitive-Data-Types-and-Variables\06-StringsAndObjects\bin\Debug\06-StringsAndObjects.exe.config
+D:\SoftwareUniversity\Programming Basics\Homework\3. Primitive-Data-Types-and-Variables\06-StringsAndObjects\bin\Debug\06-StringsAndObjects.exe
+D:\SoftwareUniversity\Programming Basics\Homework\3. Primitive-Data-Types-and-Variables\06-StringsAndObjects\bin\Debug\06-StringsAndObjects.pdb
+D:\SoftwareUniversity\Programming Basics\Homework\3. Primitive-Data-Types-and-Variables\06-StringsAndObjects\obj\Debug\06-StringsAndObjects.exe
+D:\SoftwareUniversity\Programming Basics\Homework\3. Primitive-Data-Types-and-Variables\06-StringsAndObjects\obj\Debug\06-StringsAndObjects.pdb

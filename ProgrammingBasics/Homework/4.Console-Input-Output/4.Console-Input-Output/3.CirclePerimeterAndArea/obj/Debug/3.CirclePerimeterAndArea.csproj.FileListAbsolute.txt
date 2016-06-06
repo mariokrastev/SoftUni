@@ -1,0 +1,5 @@
+D:\SoftwareUniversity\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\3.CirclePerimeterAndArea\bin\Debug\3.CirclePerimeterAndArea.exe.config
+D:\SoftwareUniversity\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\3.CirclePerimeterAndArea\bin\Debug\3.CirclePerimeterAndArea.exe
+D:\SoftwareUniversity\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\3.CirclePerimeterAndArea\bin\Debug\3.CirclePerimeterAndArea.pdb
+D:\SoftwareUniversity\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\3.CirclePerimeterAndArea\obj\Debug\3.CirclePerimeterAndArea.exe
+D:\SoftwareUniversity\Programming Basics\Homework\4.Console-Input-Output\4.Console-Input-Output\3.CirclePerimeterAndArea\obj\Debug\3.CirclePerimeterAndArea.pdb

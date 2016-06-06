@@ -1,0 +1,5 @@
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.exe.config
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.exe
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.pdb
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\14.ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.exe
+C:\Users\security\Documents\Visual Studio 2015\Projects\Homework\14.ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.pdb

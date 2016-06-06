@@ -1,0 +1,5 @@
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\PracticeCharactersandStrings\bin\Debug\PracticeCharactersandStrings.exe.config
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\PracticeCharactersandStrings\bin\Debug\PracticeCharactersandStrings.exe
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\PracticeCharactersandStrings\bin\Debug\PracticeCharactersandStrings.pdb
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\PracticeCharactersandStrings\obj\Debug\PracticeCharactersandStrings.exe
+D:\SoftwareUniversity\Programming Basics\Homework\01-IntroToProgramming\PracticeCharactersandStrings\obj\Debug\PracticeCharactersandStrings.pdb

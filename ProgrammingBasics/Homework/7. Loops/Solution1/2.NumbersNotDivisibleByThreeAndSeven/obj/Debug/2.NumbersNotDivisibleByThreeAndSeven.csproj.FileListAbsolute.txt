@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\2.NumbersNotDivisibleByThreeAndSeven\bin\Debug\2.NumbersNotDivisibleByThreeAndSeven.exe.config
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\2.NumbersNotDivisibleByThreeAndSeven\bin\Debug\2.NumbersNotDivisibleByThreeAndSeven.exe
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\2.NumbersNotDivisibleByThreeAndSeven\bin\Debug\2.NumbersNotDivisibleByThreeAndSeven.pdb
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\2.NumbersNotDivisibleByThreeAndSeven\obj\Debug\2.NumbersNotDivisibleByThreeAndSeven.exe
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\2.NumbersNotDivisibleByThreeAndSeven\obj\Debug\2.NumbersNotDivisibleByThreeAndSeven.pdb
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\2.NumbersNotDivisibleByThreeAndSeven\obj\Debug\2.NumbersNotDivisibleByThreeAndSeven.csprojResolveAssemblyReference.cache

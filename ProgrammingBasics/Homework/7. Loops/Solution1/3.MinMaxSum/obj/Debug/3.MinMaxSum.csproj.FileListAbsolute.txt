@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\3.MinMaxSum\bin\Debug\3.MinMaxSum.exe.config
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\3.MinMaxSum\bin\Debug\3.MinMaxSum.exe
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\3.MinMaxSum\bin\Debug\3.MinMaxSum.pdb
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\3.MinMaxSum\obj\Debug\3.MinMaxSum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\3.MinMaxSum\obj\Debug\3.MinMaxSum.exe
+D:\SoftUni\Programming Basics\Homework\7. Loops\Solution1\3.MinMaxSum\obj\Debug\3.MinMaxSum.pdb
